@@ -7,4 +7,4 @@ compiler:
 
 script:
   - make -C hello/ clean all
-  - ./hello
+
